@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="11" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-02T01:48:31 IST" name="Suite" finished-at="2022-08-02T02:00:12 IST" duration-ms="700679">
+    <groups>
+    </groups>
+    <test started-at="2022-08-02T01:48:31 IST" name="Test" finished-at="2022-08-02T02:00:12 IST" duration-ms="700679">
+      <class name="com.acti_time.script.VerifyInvalidLoginPageE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@20ce78ec]" started-at="2022-08-02T01:58:08 IST" name="preCondition" finished-at="2022-08-02T01:58:27 IST" duration-ms="19591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyInvalidLoginPageE()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@20ce78ec]" started-at="2022-08-02T01:58:27 IST" name="verifyInvalidLoginPageE" finished-at="2022-08-02T01:59:05 IST" duration-ms="37823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPageE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@20ce78ec]" started-at="2022-08-02T01:59:05 IST" name="postCondition" finished-at="2022-08-02T01:59:08 IST" duration-ms="3264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyInvalidLoginPageE -->
+      <class name="com.acti_time.script.VerifyVersionE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyVersionE@6a192cfe]" started-at="2022-08-02T01:55:31 IST" name="preCondition" finished-at="2022-08-02T01:56:01 IST" duration-ms="29584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyVersionE()[pri:0, instance:com.acti_time.script.VerifyVersionE@6a192cfe]" started-at="2022-08-02T01:56:01 IST" name="verifyVersionE" finished-at="2022-08-02T01:56:16 IST" duration-ms="15226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersionE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyVersionE@6a192cfe]" started-at="2022-08-02T01:56:16 IST" name="postCondition" finished-at="2022-08-02T01:56:17 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyVersionE -->
+      <class name="com.acti_time.script.VerifyInvalidLoginPage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@7714e963]" started-at="2022-08-02T01:57:50 IST" name="preCondition" finished-at="2022-08-02T01:58:03 IST" duration-ms="13267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyInvalidLoginPage()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@7714e963]" started-at="2022-08-02T01:58:03 IST" name="verifyInvalidLoginPage" finished-at="2022-08-02T01:58:07 IST" duration-ms="3761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@7714e963]" started-at="2022-08-02T01:58:07 IST" name="postCondition" finished-at="2022-08-02T01:58:08 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyInvalidLoginPage -->
+      <class name="com.acti_time.script.VerifyHomePage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyHomePage@2f7298b]" started-at="2022-08-02T01:50:14 IST" name="preCondition" finished-at="2022-08-02T01:53:05 IST" duration-ms="170804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyHomePage()[pri:0, instance:com.acti_time.script.VerifyHomePage@2f7298b]" started-at="2022-08-02T01:53:05 IST" name="verifyHomePage" finished-at="2022-08-02T01:53:39 IST" duration-ms="34614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyHomePage@2f7298b]" started-at="2022-08-02T01:53:39 IST" name="postCondition" finished-at="2022-08-02T01:53:43 IST" duration-ms="3152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyHomePage -->
+      <class name="com.acti_time.script.VerifyValidLoginPage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@188715b5]" started-at="2022-08-02T01:53:43 IST" name="preCondition" finished-at="2022-08-02T01:54:25 IST" duration-ms="42540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyValidLoginPage()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@188715b5]" started-at="2022-08-02T01:54:25 IST" name="verifyValidLoginPage" finished-at="2022-08-02T01:54:26 IST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@188715b5]" started-at="2022-08-02T01:54:26 IST" name="postCondition" finished-at="2022-08-02T01:54:28 IST" duration-ms="1957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyValidLoginPage -->
+      <class name="com.acti_time.script.VerifyLoginPageTitle">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@7193666c]" started-at="2022-08-02T01:56:32 IST" name="preCondition" finished-at="2022-08-02T01:57:00 IST" duration-ms="27923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyLoginPagaTitle()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@7193666c]" started-at="2022-08-02T01:57:00 IST" name="verifyLoginPagaTitle" finished-at="2022-08-02T01:57:00 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPagaTitle -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@7193666c]" started-at="2022-08-02T01:57:00 IST" name="postCondition" finished-at="2022-08-02T01:57:01 IST" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyLoginPageTitle -->
+      <class name="com.acti_time.script.VerifyCheckBox">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyCheckBox@5119fb47]" started-at="2022-08-02T01:56:17 IST" name="preCondition" finished-at="2022-08-02T01:56:31 IST" duration-ms="14361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyCheckBox()[pri:0, instance:com.acti_time.script.VerifyCheckBox@5119fb47]" started-at="2022-08-02T01:56:31 IST" name="verifyCheckBox" finished-at="2022-08-02T01:56:32 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBox -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyCheckBox@5119fb47]" started-at="2022-08-02T01:56:32 IST" name="postCondition" finished-at="2022-08-02T01:56:32 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyCheckBox -->
+      <class name="com.acti_time.script.VerifyReports">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyReports@1ea9f6af]" started-at="2022-08-02T01:54:28 IST" name="preCondition" finished-at="2022-08-02T01:54:54 IST" duration-ms="25660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyReports()[pri:0, instance:com.acti_time.script.VerifyReports@1ea9f6af]" started-at="2022-08-02T01:54:54 IST" name="verifyReports" finished-at="2022-08-02T01:55:30 IST" duration-ms="36672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReports -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyReports@1ea9f6af]" started-at="2022-08-02T01:55:30 IST" name="postCondition" finished-at="2022-08-02T01:55:31 IST" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyReports -->
+      <class name="com.acti_time.script.VerifyValidLoginPageE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@393671df]" started-at="2022-08-02T01:59:08 IST" name="preCondition" finished-at="2022-08-02T01:59:27 IST" duration-ms="18302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyValidLoginPageE()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@393671df]" started-at="2022-08-02T01:59:27 IST" name="verifyValidLoginPageE" finished-at="2022-08-02T01:59:35 IST" duration-ms="8179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPageE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@393671df]" started-at="2022-08-02T01:59:35 IST" name="postCondition" finished-at="2022-08-02T01:59:36 IST" duration-ms="1023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyValidLoginPageE -->
+      <class name="com.acti_time.script.VerifyTasks">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyTasks@1dde4cb2]" started-at="2022-08-02T01:57:01 IST" name="preCondition" finished-at="2022-08-02T01:57:15 IST" duration-ms="14231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyTasks()[pri:0, instance:com.acti_time.script.VerifyTasks@1dde4cb2]" started-at="2022-08-02T01:57:15 IST" name="verifyTasks" finished-at="2022-08-02T01:57:46 IST" duration-ms="30631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTasks -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyTasks@1dde4cb2]" started-at="2022-08-02T01:57:46 IST" name="postCondition" finished-at="2022-08-02T01:57:50 IST" duration-ms="4486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyTasks -->
+      <class name="com.acti_time.script.VerifyVersion">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyVersion@708f5957]" started-at="2022-08-02T01:48:32 IST" name="preCondition" finished-at="2022-08-02T01:50:14 IST" duration-ms="101649" status="FAIL">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'ADMIN-PC', ip: '192.168.43.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'ADMIN-PC', ip: '192.168.43.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:84)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:106)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:93)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:48)
+at com.acti_time.script.BaseTest.preCondition(BaseTest.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyVersion()[pri:0, instance:com.acti_time.script.VerifyVersion@708f5957]" started-at="2022-08-02T01:50:14 IST" name="verifyVersion" finished-at="2022-08-02T01:50:14 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Response code 500. Message: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'ADMIN-PC', ip: '192.168.43.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: unknown error: DevToolsActivePort file doesn't exist
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'ADMIN-PC', ip: '192.168.43.244', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:126)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:84)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:62)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:156)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:558)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:245)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:108)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:106)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:93)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:48)
+at com.acti_time.script.BaseTest.preCondition(BaseTest.java:21)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersion -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyVersion@708f5957]" started-at="2022-08-02T01:50:14 IST" name="postCondition" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1659385214442" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyVersion -->
+      <class name="com.acti_time.script.VerifyHomePageTitle">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@56620197]" started-at="2022-08-02T01:59:36 IST" name="preCondition" finished-at="2022-08-02T02:00:01 IST" duration-ms="24906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@56620197]" started-at="2022-08-02T02:00:01 IST" name="verifyHomePageTitle" finished-at="2022-08-02T02:00:11 IST" duration-ms="9923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@56620197]" started-at="2022-08-02T02:00:11 IST" name="postCondition" finished-at="2022-08-02T02:00:12 IST" duration-ms="1377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyHomePageTitle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
