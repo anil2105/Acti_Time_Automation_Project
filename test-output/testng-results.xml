@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T17:47:40 IST" name="Suite" finished-at="2023-06-26T17:50:21 IST" duration-ms="161506">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T17:47:40 IST" name="Test" finished-at="2023-06-26T17:50:21 IST" duration-ms="161506">
+      <class name="com.acti_time.script.VerifyInvalidLoginPageE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@61322f9d]" started-at="2023-06-26T17:49:18 IST" name="preCondition" finished-at="2023-06-26T17:49:22 IST" duration-ms="3510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyInvalidLoginPageE()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@61322f9d]" started-at="2023-06-26T17:49:22 IST" name="verifyInvalidLoginPageE" finished-at="2023-06-26T17:50:02 IST" duration-ms="40032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPageE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPageE@61322f9d]" started-at="2023-06-26T17:50:02 IST" name="postCondition" finished-at="2023-06-26T17:50:02 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyInvalidLoginPageE -->
+      <class name="com.acti_time.script.VerifyVersionE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyVersionE@45c7e403]" started-at="2023-06-26T17:48:37 IST" name="preCondition" finished-at="2023-06-26T17:48:42 IST" duration-ms="4566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyVersionE()[pri:0, instance:com.acti_time.script.VerifyVersionE@45c7e403]" started-at="2023-06-26T17:48:42 IST" name="verifyVersionE" finished-at="2023-06-26T17:48:45 IST" duration-ms="2857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersionE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyVersionE@45c7e403]" started-at="2023-06-26T17:48:45 IST" name="postCondition" finished-at="2023-06-26T17:48:45 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyVersionE -->
+      <class name="com.acti_time.script.VerifyInvalidLoginPage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@65e98b1c]" started-at="2023-06-26T17:49:10 IST" name="preCondition" finished-at="2023-06-26T17:49:14 IST" duration-ms="4533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyInvalidLoginPage()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@65e98b1c]" started-at="2023-06-26T17:49:14 IST" name="verifyInvalidLoginPage" finished-at="2023-06-26T17:49:18 IST" duration-ms="3833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidLoginPage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyInvalidLoginPage@65e98b1c]" started-at="2023-06-26T17:49:18 IST" name="postCondition" finished-at="2023-06-26T17:49:18 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyInvalidLoginPage -->
+      <class name="com.acti_time.script.VerifyValidLoginPage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@279fedbd]" started-at="2023-06-26T17:48:10 IST" name="preCondition" finished-at="2023-06-26T17:48:15 IST" duration-ms="4966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyValidLoginPage()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@279fedbd]" started-at="2023-06-26T17:48:15 IST" name="verifyValidLoginPage" finished-at="2023-06-26T17:48:16 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPage@279fedbd]" started-at="2023-06-26T17:48:16 IST" name="postCondition" finished-at="2023-06-26T17:48:16 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyValidLoginPage -->
+      <class name="com.acti_time.script.VerifyHomePage">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyHomePage@752325ad]" started-at="2023-06-26T17:47:58 IST" name="preCondition" finished-at="2023-06-26T17:48:03 IST" duration-ms="5518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyHomePage()[pri:0, instance:com.acti_time.script.VerifyHomePage@752325ad]" started-at="2023-06-26T17:48:03 IST" name="verifyHomePage" finished-at="2023-06-26T17:48:09 IST" duration-ms="6248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePage -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyHomePage@752325ad]" started-at="2023-06-26T17:48:09 IST" name="postCondition" finished-at="2023-06-26T17:48:10 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyHomePage -->
+      <class name="com.acti_time.script.VerifyLoginPageTitle">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@710f4dc7]" started-at="2023-06-26T17:48:49 IST" name="preCondition" finished-at="2023-06-26T17:48:52 IST" duration-ms="3225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyLoginPagaTitle()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@710f4dc7]" started-at="2023-06-26T17:48:52 IST" name="verifyLoginPagaTitle" finished-at="2023-06-26T17:48:52 IST" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPagaTitle -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyLoginPageTitle@710f4dc7]" started-at="2023-06-26T17:48:52 IST" name="postCondition" finished-at="2023-06-26T17:48:53 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyLoginPageTitle -->
+      <class name="com.acti_time.script.VerifyCheckBox">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyCheckBox@2925bf5b]" started-at="2023-06-26T17:48:45 IST" name="preCondition" finished-at="2023-06-26T17:48:48 IST" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyCheckBox()[pri:0, instance:com.acti_time.script.VerifyCheckBox@2925bf5b]" started-at="2023-06-26T17:48:48 IST" name="verifyCheckBox" finished-at="2023-06-26T17:48:49 IST" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBox -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyCheckBox@2925bf5b]" started-at="2023-06-26T17:48:49 IST" name="postCondition" finished-at="2023-06-26T17:48:49 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyCheckBox -->
+      <class name="com.acti_time.script.VerifyReports">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyReports@b3ca52e]" started-at="2023-06-26T17:48:16 IST" name="preCondition" finished-at="2023-06-26T17:48:20 IST" duration-ms="3733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyReports()[pri:0, instance:com.acti_time.script.VerifyReports@b3ca52e]" started-at="2023-06-26T17:48:20 IST" name="verifyReports" finished-at="2023-06-26T17:48:37 IST" duration-ms="17159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReports -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyReports@b3ca52e]" started-at="2023-06-26T17:48:37 IST" name="postCondition" finished-at="2023-06-26T17:48:37 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyReports -->
+      <class name="com.acti_time.script.VerifyValidLoginPageE">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@6ad82709]" started-at="2023-06-26T17:50:02 IST" name="preCondition" finished-at="2023-06-26T17:50:06 IST" duration-ms="3381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyValidLoginPageE()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@6ad82709]" started-at="2023-06-26T17:50:06 IST" name="verifyValidLoginPageE" finished-at="2023-06-26T17:50:13 IST" duration-ms="7696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLoginPageE -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyValidLoginPageE@6ad82709]" started-at="2023-06-26T17:50:13 IST" name="postCondition" finished-at="2023-06-26T17:50:14 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyValidLoginPageE -->
+      <class name="com.acti_time.script.VerifyTasks">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyTasks@1ff4931d]" started-at="2023-06-26T17:48:53 IST" name="preCondition" finished-at="2023-06-26T17:48:56 IST" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyTasks()[pri:0, instance:com.acti_time.script.VerifyTasks@1ff4931d]" started-at="2023-06-26T17:48:56 IST" name="verifyTasks" finished-at="2023-06-26T17:49:09 IST" duration-ms="13131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTasks -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyTasks@1ff4931d]" started-at="2023-06-26T17:49:09 IST" name="postCondition" finished-at="2023-06-26T17:49:10 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyTasks -->
+      <class name="com.acti_time.script.VerifyVersion">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyVersion@fbd1f6]" started-at="2023-06-26T17:47:40 IST" name="preCondition" finished-at="2023-06-26T17:47:56 IST" duration-ms="16265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyVersion()[pri:0, instance:com.acti_time.script.VerifyVersion@fbd1f6]" started-at="2023-06-26T17:47:56 IST" name="verifyVersion" finished-at="2023-06-26T17:47:57 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVersion -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyVersion@fbd1f6]" started-at="2023-06-26T17:47:57 IST" name="postCondition" finished-at="2023-06-26T17:47:58 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyVersion -->
+      <class name="com.acti_time.script.VerifyHomePageTitle">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@510f3d34]" started-at="2023-06-26T17:50:14 IST" name="preCondition" finished-at="2023-06-26T17:50:17 IST" duration-ms="3522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="verifyHomePageTitle()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@510f3d34]" started-at="2023-06-26T17:50:17 IST" name="verifyHomePageTitle" finished-at="2023-06-26T17:50:21 IST" duration-ms="4100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.acti_time.script.VerifyHomePageTitle@510f3d34]" started-at="2023-06-26T17:50:21 IST" name="postCondition" finished-at="2023-06-26T17:50:21 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.acti_time.script.VerifyHomePageTitle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
